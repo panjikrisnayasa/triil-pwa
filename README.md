@@ -2,6 +2,9 @@
 Triil is a Progressive Web App that was created for vacation planning and ticket booking of tourist attractions especially in Singapore.
 This app is made using Next.js and Tailwind CSS.
 
+## You can access this app through this link:
+https://bit.ly/triil-pwa
+
 ## Some features of Triil App:
 ### 1. Login
 
