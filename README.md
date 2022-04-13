@@ -3,7 +3,7 @@ Triil is a Progressive Web App that was created for vacation planning and ticket
 This app is made using Next.js and Tailwind CSS.
 
 ## You can access this app through this link:
-https://bit.ly/triil-pwa
+https://pwa.triil.taksu.tech/
 
 ## Some features of Triil App:
 ### 1. Login
